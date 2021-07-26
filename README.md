@@ -1,6 +1,7 @@
-<h1 align="center">Hey Guys👋, I'm Ishu Choubey!!</h1>
-👀 I’m interested in programming and UI/UX designing
-🌱 I’m currently learning C++ and UI/UX designing on figma
+<h1 align="center">Hey Guys👋<br>I'm Ishu Choubey!!</h1>
+<h3 align="center">A girl driven by the motive to learn</h3>
+<h3 align="center">Hi, I am ECE student at Vellore Institute of Technology who loves tinkering with gadgets. Even though I'm from ECE background quite passionate about coding!!Currently I'm learning Web Development and am also interested in UI/UX designing.</h3>
+<h3 align="center">Hi, I am ECE student at Vellore Institute of Technology who loves tinkering with gadgets. Even though I'm from ECE background quite passionate about coding!!Currently I'm learning Web Development and am also interested in UI/UX designing.</h3>
 
 
 <!---
