@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ishu-Choubey
+- <h1 align="Centre">Hey Guys!!<br>👋I’m @Ishu-Choubey</h1>
 - 👀 I’m interested in programming and UI/UX designing
 - 🌱 I’m currently learning C++ and UI/UX designing on figma
 - 💞️ I’m looking to collaborate on ...
