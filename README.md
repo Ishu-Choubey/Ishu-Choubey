@@ -10,9 +10,10 @@ About Me:
 * <img align="center" alt="Coding" width="30" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> **Totally dedicated toward my work**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ishu-choubey-974a7a1ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ishu Choubey-8780641b8" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.yui_iiiii._" height="30" width="40" /></a>
+  
+   <a href="https://twitter.com/home" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/ishu-choubey-974a7a1ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ishu Choubey-8780641b8" height="30" width="40" /></a>
+   <a href="https://www.instagram.com/_.yui_iiiii._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.yui_iiiii._" height="30" width="40" /></a>
 <!---
 Ishu-Choubey/Ishu-Choubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
